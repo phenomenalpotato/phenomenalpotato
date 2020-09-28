@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm PhenomenalPotato (Yes, i am a Phenomenal Potato, Nice To Meet Ya)!👋
 
 <!--
 **phenomenalpotato/phenomenalpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Big Anime and Manga Fan (as you can see in my profile pic), Not-a-Developer,technological enthusiast!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on any project to learn more about the C language!
+- 🌱 I’m currently learning C, and survival skills (just kidding) 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Learn more about C and plan my next trip
+- ⚡ Fun fact: I love to read manga (btw, accepting any suggestions and also open to giving any suggestions) / and listen to music
+
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
