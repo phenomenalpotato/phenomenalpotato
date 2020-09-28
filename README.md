@@ -1,6 +1,6 @@
 ### Hi there, I'm PhenomenalPotato (Yes, i am a Phenomenal Potato, Nice To Meet Ya)!👋
 
-## I'm a Big Anime and Manga Fan (as you can see in my profile pic), Not-a-Developer,technological enthusiast!
+## I'm a Big Anime and Manga Fan (as you can see in my profile pic), Not-a-Developer, technological enthusiast!
 
 - 🔭 I’m currently working on any project to learn more about the C language!
 - 🌱 I’m currently learning C, and survival skills (just kidding) 🤣
