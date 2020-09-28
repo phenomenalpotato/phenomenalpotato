@@ -11,6 +11,15 @@
 <br />
 
 <details>
+  <summary>:zap: Language Card Layout</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phenomenalpotato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<br />
+
+<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="phenomenalpotato's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=phenomenalpotato&show_icons=true&hide_border=true&theme=dark" />
@@ -18,14 +27,3 @@
 </details>
 
 ---
-
-<br />
-<br />
-<br />
-
-<details>
-  <summary>:zap: Language Card Layout</summary>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phenomenalpotato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
