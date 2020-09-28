@@ -1,8 +1,5 @@
 ### Hi there, I'm PhenomenalPotato (Yes, i am a Phenomenal Potato, Nice To Meet Ya)!👋
 
-<!--
-**phenomenalpotato/phenomenalpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Big Anime and Manga Fan (as you can see in my profile pic), Not-a-Developer,technological enthusiast!
 
 - 🔭 I’m currently working on any project to learn more about the C language!
