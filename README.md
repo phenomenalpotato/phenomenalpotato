@@ -17,6 +17,8 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: Language Card Layout</summary>
   
