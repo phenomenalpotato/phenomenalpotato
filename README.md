@@ -2,7 +2,7 @@
 
 ## I'm a Big Manga Fan (as you can see in my profile pic), Not-a-Developer, technological enthusiast!
 
-- 🔭 I’m currently working on any project to learn more about the C language!
+- 🔭 I’m currently working on any project to learn more about the C/ C++ language!
 - 🌱 I’m currently learning C, and survival skills (just kidding) 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Continue to learn more about C/ C++ and plan my next trip (if possible)
