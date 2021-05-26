@@ -24,6 +24,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="phenomenalpotato's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=phenomenalpotato&show_icons=true&hide_border=true&theme=dark" />
-
+  <img align="left" alt="phenomenalpotato's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phenomenalpotato&show_icons=true&hide_border=true&theme=dark" />
+  
 </details>
