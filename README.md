@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on any project to learn more about the C/ C++ and Golang language!
 - 🌱 I’m currently learning C, and survival skills (just kidding) 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Continue to learn more about C/ C++, Golang and plan my next trip (if possible)
+- 🥅 2023 Goals: Continue to learn more about Golang and plan my next trip (if possible)
 - ⚡ Fun fact: I love to read manga (btw, accepting any suggestions and also happy on giving any suggestions) and listen to music
 
 <br />
