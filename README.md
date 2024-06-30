@@ -2,10 +2,10 @@
 
 ## I'm a Big Manga Fan (as you can see in my profile pic), Not-a-Developer, technological enthusiast!
 
-- 🔭 I’m currently working on any project to learn more about the C/ C++ and Golang language!
-- 🌱 I’m currently learning C, and survival skills (just kidding) 🤣
+- 🔭 I’m currently working on any project to learn more about the Golang and JavaScript languages!
+- 🌱 I’m currently learning JavaScript, and survival skills (just kidding) 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Continue to learn more about Golang and plan my next trip (if possible)
+- 🥅 2024 Goals: Continue to learn more about JavaScript and plan my next trip (if possible)
 - ⚡ Fun fact: I love to read manga (btw, accepting any suggestions and also happy on giving any suggestions) and listen to music
 
 <br />
